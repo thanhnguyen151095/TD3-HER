@@ -41,6 +41,8 @@ Pick And Place | Slide|
 
 
 # Reference
+- TD3: https://arxiv.org/abs/1802.09477
+  
 - Open AI: https://doi.org/10.48550/arXiv.1707.01495
-
+  
 - Environment: https://robotics.farama.org/envs/fetch/
