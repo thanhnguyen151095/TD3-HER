@@ -40,8 +40,8 @@ This combination aims to enhance the learning efficiency and robustness of the a
 # Comparison of Results
 |_|_|
 |:---:|:---:|
-![](Figures/Reach.png)| ![](Figures/Push.png)|
-![](Figures/PickAndPlace.png)| ![](Figures/Slide.png)|
+![](Figures/Reach_comparison.png)| ![](Figures/Push_comparison.png)|
+![](Figures/PickAndPlace_comparison.png)| ![](Figures/Slide_comparison.png)|
 
 # Demo
 
