@@ -37,6 +37,11 @@ This combination aims to enhance the learning efficiency and robustness of the a
 ![](Figures/Reach.png)| ![](Figures/Push.png)|
 ![](Figures/PickAndPlace.png)| ![](Figures/Slide.png)|
 
+# Comparison of Results
+|_|_|
+|:---:|:---:|
+![](Figures/Reach.png)| ![](Figures/Push.png)|
+![](Figures/PickAndPlace.png)| ![](Figures/Slide.png)|
 
 # Demo
 
