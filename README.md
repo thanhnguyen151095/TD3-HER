@@ -34,14 +34,14 @@ This combination aims to enhance the learning efficiency and robustness of the a
 # Results
 |_|_|
 |:---:|:---:|
-![](Figures/Reach.png)| ![](Figures/Push.png)|
-![](Figures/PickAndPlace.png)| ![](Figures/Slide.png)|
+![](Figures/FetchReach-v2.png)| ![](Figures/FetchPush-v2.png)|
+![](Figures/FetchPickAndPlace-v2.png)| ![](Figures/FetchSlide-v2.png)|
 
 # Comparison of Results
 |_|_|
 |:---:|:---:|
-![](Figures/Reach_comparison.png)| ![](Figures/Push_comparison.png)|
-![](Figures/PickAndPlace_comparison.png)| ![](Figures/Slide_comparison.png)|
+![](Figures/FetchReach-v2_cp.png)| ![](Figures/FetchPush-v2_cp.png)|
+![](Figures/FetchPickAndPlace-v2_cp.png)| ![](Figures/FetchSlide-v2_cp.png)|
 
 # Demo
 
